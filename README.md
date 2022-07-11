@@ -1,2 +1,2 @@
 # titanic_azul
-equipo azul: Ana de Cordoba, Angie, Wenya, Jonnathan 
+equipo azul: Ana de Córdoba, Angie, Wenya, Jonnathan 
