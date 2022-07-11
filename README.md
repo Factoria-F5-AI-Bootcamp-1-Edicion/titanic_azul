@@ -1,2 +1,2 @@
 # titanic_azul
-Aprendiendo herramientas de visualización de datos
+equipo azul: Ana de Cordoba, Angie, Wenya, Jonnathan 
